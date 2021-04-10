@@ -17,6 +17,22 @@ Here are some ideas to get you started:
 
 - I'm currently Data Scientist at @Creditas. I'm also responsable for planning, research, writing and producing technical content for data analysis classes of a business school.
 
+## Connect with me on these platforms:
+
+<!--
+<a href="https://www.youtube.com/alexandrerays"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
+-->
+<a href="https://alexandrerays.medium.com/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/alexandrerays"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alexandrerays/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/alexandrerays"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+
+<!--
+[<img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg" width="15"/> alexandrerays](https://alexandrerays.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="15"/> alexandrerays](https://www.kaggle.com/alexandrerays)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) alexandrerays](https://www.linkedin.com/in/alexandrerays/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="15"/> @alexandrerays](https://twitter.com/alexandrerays)
+-->
 
 <!--
 ## My Scientific Publications
@@ -51,9 +67,3 @@ This project was my capstone of the Machine Learning Engineer nanodegree course.
 
 Sometimes, I solve some HackerRank problems and organize my solutions in [this repository](https://github.com/alexandrerays/hackerrank). The puzzles that I did the most were **Problem Solving** (4 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>) and **Python** (3 Stars <img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/><img src="https://cdn.pixabay.com/photo/2013/07/13/11/42/star-158502_960_720.png" width="15"/>)
 
-## My Social Links:
-
-[<img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg" width="15"/> alexandrerays](https://alexandrerays.medium.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="15"/> alexandrerays](https://www.kaggle.com/alexandrerays)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) alexandrerays](https://www.linkedin.com/in/alexandrerays/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="15"/> @alexandrerays](https://twitter.com/alexandrerays)
