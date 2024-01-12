@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="http://www.alexandreray.com/" target="blank">
+Alexandre Ray</a></h1>
+<h3 align="center">Data Scientist, Computational Physicist and BI & Analytics Professor. &#127470;&#127475</h3>
 
 Check out my website [http://www.alexandreray.com/](http://www.alexandreray.com/).
 
