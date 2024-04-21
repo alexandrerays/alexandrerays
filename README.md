@@ -6,7 +6,7 @@ Alexandre Ray</a></h1>
 
 <p align="left"> <a href="https://twitter.com/alexandrerays" target="blank"><img src="https://img.shields.io/twitter/follow/alexandrerays?logo=twitter&style=for-the-badge" alt="alexandrerays" /></a> </p>
 
-Check out my website [http://www.alexandreray.com/](http://www.alexandreray.com/).
+Check out my website [alexandrerays.notion.site](https://alexandrerays.notion.site/Alexandre-Ray-17b4db804b9e435a944134c2844faa50).
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrerays&show_icons=true&locale=en&layout=compact" alt="alexandrerays" /></p>
 
