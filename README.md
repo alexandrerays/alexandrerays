@@ -6,7 +6,7 @@ Alexandre Ray</a></h1>
 🧑‍💼 About Me
 ---
 
-* Senior Data Scientist at [InterEx Group](https://interex-group.com/).
+* Senior Data Scientist.
 * Postgraduate Professor of Business Intelligence & Analytics at [Conquer Business School](https://escolaconquer.com.br/).
 * I occasionally write articles on Medium. You can read them [here](https://medium.com/@alexandrerays).
 * Check out my website [https://www.alexandreray.com/](https://www.alexandreray.com/).
