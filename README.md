@@ -8,7 +8,7 @@ Alexandre Ray</a></h1>
 
 * Senior Data Scientist and Machine Learning Engineer.
 * I occasionally write articles on Medium. You can read them [here](https://medium.com/@alexandrerays).
-* Check out my website [https://www.alexandreray.com/](https://alexandrerays.notion.site/Alexandre-Ray-17b4db804b9e435a944134c2844faa50).
+* Check out my website [alexandrerays.notion.site](https://alexandrerays.notion.site/Alexandre-Ray-17b4db804b9e435a944134c2844faa50).
 
 💬 Ask Me About
 ---
