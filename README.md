@@ -14,6 +14,7 @@ Alexandre Ray</a></h1>
 
 I am a Data Scientist with 10+ years of experience in AI, machine learning, software engineering, and systems design across industries like finance, healthcare, and manufacturing.
 
+<!--
 ⚙️ Languages and Tools
 ---
 
@@ -39,6 +40,7 @@ I am a Data Scientist with 10+ years of experience in AI, machine learning, soft
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 </p>
 
+-->
 📊 Stats
 ---
 
