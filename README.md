@@ -42,10 +42,8 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
     <td align="center"><a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>TensorFlow</a></td>
     <td align="center"><a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>PyTorch</a></td>
     <td align="center"><a href="https://keras.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Keras.svg" width="40"/><br>Keras</a></td>
-    <td align="center"><a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40"/><br>Hugging Face</a></td>
     <td align="center"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="40"/><br>Pandas</a></td>
-    <td align="center"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/><br>Seaborn</a></td>
-    <td align="center"><a href="https://matplotlib.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="50"/><br>Matplotlib</a></td>
+    <td align="center"><a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40"/><br>Hugging Face</a></td>
     <td align="center"><a href="https://opencv.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" width="40"/><br>OpenCV</a></td>
     <td align="center"><a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40"/><br>PySpark</a></td>
     <td align="center"><a href="https://speechbrain.github.io/index.html" target="_blank"><img src="https://speechbrain.github.io/img/speechbrain-round-logo.svg" width="40"/><br>SpeechBrain</a></td>    
@@ -58,6 +56,8 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
     <td align="center"><a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/><br>Tableau</a></td>
     <td align="center"><a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br>Power BI</a></td>
     <td align="center"><a href="https://plotly.com/python/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" width="40"/><br>Plotly</a></td>
+    <td align="center"><a href="https://matplotlib.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="50"/><br>Matplotlib</a></td>
+    <td align="center"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/><br>Seaborn</a></td>
     <td align="center"><a href="https://streamlit.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="40"/><br>Streamlit</a></td> 
     <td align="center"><a href="https://www.gradio.app/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/gradio-color.png" width="40"/><br>Gradio</a></td>    
   </tr>
