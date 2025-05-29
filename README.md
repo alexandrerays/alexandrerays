@@ -48,6 +48,7 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
     <td align="center"><a href="https://matplotlib.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="50"/><br>Matplotlib</a></td>
     <td align="center"><a href="https://opencv.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" width="40"/><br>OpenCV</a></td>
     <td align="center"><a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40"/><br>PySpark</a></td>
+    <td align="center"><a href="https://speechbrain.github.io/index.html" target="_blank"><img src="https://speechbrain.github.io/img/speechbrain-round-logo.svg" width="40"/><br>SpeechBrain</a></td>    
   </tr>
 </table>
 
