@@ -21,70 +21,108 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
 
 ⚙️ Skills
 ---
+
+<h3>Programming Languages</h3>
 <table>
-  <!-- Row 1 -->
   <tr>
-    <td align="center"><a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" width="40"/><br>Anaconda</a></td>
-    <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br>AWS</a></td>
-    <td align="center"><a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="40"/><br>Azure</a></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40"/><br>Bash</a></td>
-    <td align="center"><a href="https://bitbucket.org/" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" width="40"/><br>Bitbucket</a></td>
+    <td align="center"><a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="40"/><br>Python</a></td>
+    <td align="center"><a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/r/276DC3" width="40"/><br>R</a></td>
+    <td align="center"><a href="https://www.ruby-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ruby" width="40"/><br>Ruby</a></td>
     <td align="center"><a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="40"/><br>C</a></td>
     <td align="center"><a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++</a></td>
-    <td align="center"><a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker</a></td>
-    <td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>FastAPI</a></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <td align="center"><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="40"/><br>Flask</a></td>
-    <td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</a></td>
-    <td align="center"><a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</a></td>
-    <td align="center"><a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br>GitHub Actions</a></td>
-    <td align="center"><a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" width="40"/><br>GitLab</a></td>
-    <td align="center"><a href="https://www.heroku.com/" target="_blank"><img src="https://skillicons.dev/icons?i=heroku" width="40"/><br>Heroku</a></td>
-    <td align="center"><a href="https://kafka.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" width="40"/><br>Kafka</a></td>
-    <td align="center"><a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex" width="40"/><br>LaTeX</a></td>
-    <td align="center"><a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</a></td>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL</a></td>
-    <td align="center"><a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL</a></td>
-    <td align="center"><a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="40"/><br>Python</a></td>
-    <td align="center"><a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>PyTorch</a></td>
-    <td align="center"><a href="https://www.ruby-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ruby" width="40"/><br>Ruby</a></td>
-    <td align="center"><a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" width="40"/><br>scikit-learn</a></td>
-    <td align="center"><a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>TensorFlow</a></td>
-    <td align="center"><a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" width="40"/><br>Ubuntu</a></td>
-    <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code</a></td>
-  </tr>
-  <!-- Row 4 -->
-  <tr>
-    <td align="center"><a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/r/276DC3" width="40"/><br>R</a></td>
-    <td align="center"><a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40"/><br>Hugging Face</a></td>
-    <td align="center"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/><br>Seaborn</a></td>
-    <td align="center"><a href="https://matplotlib.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="50"/><br>Matplotlib</a></td>
-    <td align="center"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="40"/><br>Pandas</a></td>
-    <td align="center"><a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/><br>Tableau</a></td>
-    <td align="center"><a href="https://mlflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40"/><br>MLflow</a></td>
-    <td align="center"><a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40"/><br>PySpark</a></td>
-    <td align="center"><a href="https://opencv.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" width="40"/><br>OpenCV</a></td>
-  </tr>
-  <!-- Row 5 -->
-  <tr>
-    <td align="center"><a href="https://keras.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Keras.svg" width="40"/><br>Keras</a></td>
-    <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"/><br>MongoDB</a></td>
-    <td align="center"><a href="https://airflow.apache.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="40"/><br>Airflow</a></td>
-    <td align="center"><a href="https://www.jenkins.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" width="40"/><br>Jenkins</a></td>
-    <td align="center"><a href="https://plotly.com/python/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" width="40"/><br>Plotly</a></td>
-    <td align="center"><a href="https://streamlit.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="40"/><br>Streamlit</a></td>
-    <td align="center"><a href="https://www.postman.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40"/><br>Postman</a></td>
-    <td align="center"><a href="https://docs.pytest.org/en/stable/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/pytest.svg" width="40"/><br>pytest</a></td>
-    <td align="center"><a href="https://dvc.org/" target="_blank"><img src="https://www.svgrepo.com/show/373568/dvc.svg" width="40"/><br>DVC</a></td>
-    <td></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40"/><br>Bash</a></td>
   </tr>
 </table>
 
+<h3>Data Science & Machine Learning Libraries</h3>
+<table>
+  <tr>
+    <td align="center"><a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" width="40"/><br>scikit-learn</a></td>
+    <td align="center"><a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>TensorFlow</a></td>
+    <td align="center"><a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>PyTorch</a></td>
+    <td align="center"><a href="https://keras.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Keras.svg" width="40"/><br>Keras</a></td>
+    <td align="center"><a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40"/><br>Hugging Face</a></td>
+    <td align="center"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="40"/><br>Pandas</a></td>
+    <td align="center"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/><br>Seaborn</a></td>
+    <td align="center"><a href="https://matplotlib.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="50"/><br>Matplotlib</a></td>
+    <td align="center"><a href="https://opencv.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" width="40"/><br>OpenCV</a></td>
+    <td align="center"><a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40"/><br>PySpark</a></td>
+  </tr>
+</table>
+
+<h3>Data Visualization Tools</h3>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/><br>Tableau</a></td>
+    <td align="center"><a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br>Power BI</a></td>
+    <td align="center"><a href="https://plotly.com/python/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" width="40"/><br>Plotly</a></td>
+    <td align="center"><a href="https://streamlit.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="40"/><br>Streamlit</a></td> 
+    <td align="center"><a href="https://www.gradio.app/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/gradio-color.png" width="40"/><br>Gradio</a></td>    
+  </tr>
+</table>
+
+<h3>Cloud Platforms</h3>
+<table>
+  <tr>
+    <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br>AWS</a></td>
+    <td align="center"><a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="40"/><br>Azure</a></td>
+    <td align="center"><a href="https://www.heroku.com/" target="_blank"><img src="https://skillicons.dev/icons?i=heroku" width="40"/><br>Heroku</a></td>
+    <td align="center"><a href="https://www.databricks.com/" target="_blank"><img src="https://cdn.simpleicons.org/databricks/E9721B" width="40"/><br>Databricks</a></td>
+  </tr>
+</table>
+
+<h3>DevOps & MLOps</h3>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker</a></td>
+    <td align="center"><a href="https://www.jenkins.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" width="40"/><br>Jenkins</a></td>
+    <td align="center"><a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br>GitHub Actions</a></td>
+    <td align="center"><a href="https://mlflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40"/><br>MLflow</a></td>
+    <td align="center"><a href="https://airflow.apache.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="40"/><br>Airflow</a></td>
+    <td align="center"><a href="https://dvc.org/" target="_blank"><img src="https://www.svgrepo.com/show/373568/dvc.svg" width="40"/><br>DVC</a></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</a></td>
+    <td align="center"><a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</a></td>
+    <td align="center"><a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" width="40"/><br>GitLab</a></td>
+    <td align="center"><a href="https://bitbucket.org/" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" width="40"/><br>Bitbucket</a></td>
+  </tr>
+</table>
+
+<h3>Web Frameworks / APIs</h3>
+<table>
+  <tr>
+    <td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>FastAPI</a></td>
+    <td align="center"><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="40"/><br>Flask</a></td>
+    <td align="center"><a href="https://www.postman.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40"/><br>Postman</a></td>
+  </tr>
+</table>
+
+<h3>Databases</h3>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL</a></td>
+    <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL</a></td>
+    <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"/><br>MongoDB</a></td>
+  </tr>
+</table>
+
+<h3>Operating Systems / Environments</h3>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</a></td>
+    <td align="center"><a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" width="40"/><br>Ubuntu</a></td>
+    <td align="center"><a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" width="40"/><br>Anaconda</a></td>
+  </tr>
+</table>
+
+<h3>Testing & Experimentation</h3>
+<table>
+  <tr>
+    <td align="center"><a href="https://docs.pytest.org/en/stable/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/pytest.svg" width="40"/><br>pytest</a></td>
+  </tr>
+</table>
+
+</body>
+</html>
 
 
 
@@ -92,31 +130,9 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
 
 
 
-<!--
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="powerbi" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-</p>
 
--->
+
 📊 Stats
 ---
 
