@@ -5,7 +5,7 @@ Alexandre Ray</a></h1>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrerays)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexandrerays)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=notion&logoColor=white)](https://alexandrerays.notion.site/Alexandre-Ray-17b4db804b9e435a944134c2844faa50)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.alexandreray.com/)
 
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandrerays) -->
 
