@@ -123,14 +123,6 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
   </tr>
 </table>
 
-</body>
-</html>
-
-
-
-
-
-
 
 
 
