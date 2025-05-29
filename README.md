@@ -75,6 +75,7 @@ Data Scientist with 10+ years of experience in AI, machine learning, and softwar
     <td align="center"><a href="https://streamlit.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="40"/><br>Streamlit</a></td>
     <td align="center"><a href="https://www.postman.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40"/><br>Postman</a></td>
     <td align="center"><a href="https://docs.pytest.org/en/stable/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/pytest.svg" width="40"/><br>pytest</a></td>
+    <td align="center"><a href="https://dvc.org/" target="_blank"><img src="https://www.svgrepo.com/show/373568/dvc.svg" width="40"/><br>DVC</a></td>
     <td></td>
   </tr>
 </table>
