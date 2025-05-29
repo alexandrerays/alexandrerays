@@ -16,8 +16,8 @@ Data Scientist with 10+ years of experience in AI, machine learning, and softwar
 
 ⚙️ Skills
 ---
-
 <table>
+  <!-- Row 1 -->
   <tr>
     <td align="center">
       <a href="https://www.anaconda.com/" target="_blank">
@@ -55,6 +55,7 @@ Data Scientist with 10+ years of experience in AI, machine learning, and softwar
       </a>
     </td>
   </tr>
+  <!-- Row 2 -->
   <tr>
     <td align="center">
       <a href="https://www.docker.com/" target="_blank">
@@ -92,6 +93,7 @@ Data Scientist with 10+ years of experience in AI, machine learning, and softwar
       </a>
     </td>
   </tr>
+  <!-- Row 3 -->
   <tr>
     <td align="center">
       <a href="https://www.heroku.com/" target="_blank">
@@ -129,6 +131,7 @@ Data Scientist with 10+ years of experience in AI, machine learning, and softwar
       </a>
     </td>
   </tr>
+  <!-- Row 4 -->
   <tr>
     <td align="center">
       <a href="https://pytorch.org/" target="_blank">
@@ -166,6 +169,7 @@ Data Scientist with 10+ years of experience in AI, machine learning, and softwar
       </a>
     </td>
   </tr>
+  <!-- Row 5 -->
   <tr>
     <td align="center">
       <a href="https://huggingface.co/" target="_blank">
@@ -174,26 +178,88 @@ Data Scientist with 10+ years of experience in AI, machine learning, and softwar
     </td>
     <td align="center">
       <a href="https://seaborn.pydata.org/" target="_blank">
-        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60"/><br>Seaborn
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/><br>Seaborn
       </a>
     </td>
     <td align="center">
       <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://matplotlib.org/_static/images/logo2.svg" width="50"/><br>Matplotlib
+        <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="50"/><br>Matplotlib
       </a>
     </td>
     <td align="center">
       <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://cdn.simpleicons.org/pandas/150458" width="40"/><br>Pandas
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="40"/><br>Pandas
       </a>
     </td>
     <td align="center">
       <a href="https://www.tableau.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40"/><br>Tableau
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/><br>Tableau
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://mlflow.org/" target="_blank">
+        <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40"/><br>MLflow
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
+        <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40"/><br>PySpark
+      </a>
+    </td>
+  </tr>
+  <!-- Row 6 -->
+  <tr>
+    <td align="center">
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" width="40"/><br>OpenCV
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://keras.io/" target="_blank">
+        <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" width="40"/><br>Keras
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"/><br>MongoDB
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://airflow.apache.org/" target="_blank">
+        <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="40"/><br>Airflow
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.jenkins.io/" target="_blank">
+        <img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" width="40"/><br>Jenkins
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://plotly.com/python/" target="_blank">
+        <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" width="40"/><br>Plotly
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://streamlit.io/" target="_blank">
+        <img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="40"/><br>Streamlit
+      </a>
+    </td>
+  </tr>
+  <!-- Row 7 -->
+  <tr>
+    <td align="center">
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40"/><br>Postman
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://docs.pytest.org/en/stable/" target="_blank">
+        <img src="https://icon.icepanel.io/Technology/svg/pytest.svg" width="40"/><br>pytest
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
