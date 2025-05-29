@@ -31,6 +31,7 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
     <td align="center"><a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="40"/><br>C</a></td>
     <td align="center"><a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++</a></td>
     <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40"/><br>Bash</a></td>
+    <td align="center"><a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="40"/><br>PHP</a></td>
   </tr>
 </table>
 
