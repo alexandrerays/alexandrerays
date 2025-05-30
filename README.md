@@ -42,12 +42,12 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
     <td align="center"><a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br>TensorFlow</a></td>
     <td align="center"><a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>PyTorch</a></td>
     <td align="center"><a href="https://keras.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Keras.svg" width="40"/><br>Keras</a></td>
-    <td align="center"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="40"/><br>Pandas</a></td>
     <td align="center"><a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40"/><br>Hugging Face</a></td>
     <td align="center"><a href="https://opencv.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" width="40"/><br>OpenCV</a></td>
-    <td align="center"><a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40"/><br>PySpark</a></td>
     <td align="center"><a href="https://speechbrain.github.io/index.html" target="_blank"><img src="https://speechbrain.github.io/img/speechbrain-round-logo.svg" width="40"/><br>SpeechBrain</a></td> 
-    <td align="center"><a href="https://geopandas.org/" target="_blank"><img src="https://geopandas.org/en/latest/_images/geopandas_icon.png" width="40"/><br>GeoPandas</a></td>     
+    <td align="center"><a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40"/><br>PySpark</a></td>
+    <td align="center"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="40"/><br>Pandas</a></td>
+    <td align="center"><a href="https://geopandas.org/" target="_blank"><img src="https://geopandas.org/en/latest/_images/geopandas_icon.png" width="40"/><br>GeoPandas</a></td>         
   </tr>
 </table>
 
