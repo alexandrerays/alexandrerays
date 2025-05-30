@@ -90,6 +90,15 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
   </tr>
 </table>
 
+<h3>Large Language Models</h3>
+<table>
+  <tr>
+    <td align="center"><a href="https://openai.com/api/" target="_blank"><img src="https://www.svgrepo.com/show/306500/openai.svg" width="40"/><br>OpenAI</a></td>
+    <td align="center"><a href="https://www.deepseek.com/en" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2025/02/deepseek_logo_icon-logo_brandlogos.net_s5bgc-512x389.png" width="40"/><br>DeepSeek</a></td>
+    <td align="center"><a href="https://www.llama.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" width="40"/><br>Llama</a></td>    
+  </tr>
+</table>
+
 <h3>Web Frameworks / APIs</h3>
 <table>
   <tr>
@@ -124,7 +133,6 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
     <td align="center"><a href="https://docs.pytest.org/en/stable/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/pytest.svg" width="40"/><br>pytest</a></td>
   </tr>
 </table>
-
 
 
 
