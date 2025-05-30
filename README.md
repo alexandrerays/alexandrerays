@@ -113,6 +113,7 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
     <td align="center"><a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</a></td>
     <td align="center"><a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" width="40"/><br>Ubuntu</a></td>
     <td align="center"><a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" width="40"/><br>Anaconda</a></td>
+    <td align="center"><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/><br>JupyterLab</a></td>
   </tr>
 </table>
 
