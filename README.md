@@ -32,8 +32,10 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
     <td align="center"><a href="https://en.cppreference.com/w/cpp" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++</a></td>
     <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40"/><br>Bash</a></td>
     <td align="center"><a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="40"/><br>PHP</a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br>JavaScript</a></td>
   </tr>
 </table>
+
 
 <h3>Data Science & Machine Learning Libraries</h3>
 <table>
@@ -96,8 +98,10 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
     <td align="center"><a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>Next.js</a></td>
     <td align="center"><a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind CSS</a></td>
     <td align="center"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br>TypeScript</a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML</a></td>
   </tr>
 </table>
+
 
 
 <h3>Backend Development</h3>
