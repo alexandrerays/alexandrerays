@@ -99,14 +99,21 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
   </tr>
 </table>
 
-<h3>Web Frameworks / APIs</h3>
+<h3>Backend / Frontend</h3>
 <table>
   <tr>
     <td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>FastAPI</a></td>
     <td align="center"><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="40"/><br>Flask</a></td>
     <td align="center"><a href="https://www.postman.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40"/><br>Postman</a></td>
+    <td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/><br>React</a></td>
+    <td align="center"><a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>Next.js</a></td>
+    <td align="center"><a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js</a></td>
+    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br>TypeScript</a></td>
+    <td align="center"><a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind CSS</a></td>
   </tr>
 </table>
+
+
 
 <h3>Databases</h3>
 <table>
