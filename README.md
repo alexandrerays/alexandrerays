@@ -51,6 +51,15 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
   </tr>
 </table>
 
+<h3>Large Language Models</h3>
+<table>
+  <tr>
+    <td align="center"><a href="https://openai.com/api/" target="_blank"><img src="https://www.svgrepo.com/show/306500/openai.svg" width="40"/><br>OpenAI</a></td>
+    <td align="center"><a href="https://www.deepseek.com/en" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2025/02/deepseek_logo_icon-logo_brandlogos.net_s5bgc-512x389.png" width="40"/><br>DeepSeek</a></td>
+    <td align="center"><a href="https://www.llama.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" width="40"/><br>Llama</a></td>    
+  </tr>
+</table>
+
 <h3>Data Visualization Tools</h3>
 <table>
   <tr>
@@ -64,52 +73,41 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
   </tr>
 </table>
 
-<h3>Cloud Platforms</h3>
+<h3>Cloud, DevOps & MLOps</h3>
 <table>
   <tr>
     <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br>AWS</a></td>
     <td align="center"><a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="40"/><br>Azure</a></td>
     <td align="center"><a href="https://www.heroku.com/" target="_blank"><img src="https://skillicons.dev/icons?i=heroku" width="40"/><br>Heroku</a></td>
     <td align="center"><a href="https://www.databricks.com/" target="_blank"><img src="https://cdn.simpleicons.org/databricks/E9721B" width="40"/><br>Databricks</a></td>
-  </tr>
-</table>
-
-<h3>DevOps & MLOps</h3>
-<table>
-  <tr>
     <td align="center"><a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br>Docker</a></td>
     <td align="center"><a href="https://www.jenkins.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" width="40"/><br>Jenkins</a></td>
-    <td align="center"><a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br>GitHub Actions</a></td>
-    <td align="center"><a href="https://mlflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40"/><br>MLflow</a></td>
-    <td align="center"><a href="https://airflow.apache.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="40"/><br>Airflow</a></td>
-    <td align="center"><a href="https://dvc.org/" target="_blank"><img src="https://www.svgrepo.com/show/373568/dvc.svg" width="40"/><br>DVC</a></td>
-    <td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</a></td>
     <td align="center"><a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</a></td>
-    <td align="center"><a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" width="40"/><br>GitLab</a></td>
-    <td align="center"><a href="https://bitbucket.org/" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" width="40"/><br>Bitbucket</a></td>
+    <td align="center"><a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br>GitHub Actions</a></td>
+    <td align="center"><a href="https://airflow.apache.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="40"/><br>Airflow</a></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</a></td>
   </tr>
 </table>
 
-<h3>Large Language Models</h3>
+<h3>Frontend Development</h3>
 <table>
   <tr>
-    <td align="center"><a href="https://openai.com/api/" target="_blank"><img src="https://www.svgrepo.com/show/306500/openai.svg" width="40"/><br>OpenAI</a></td>
-    <td align="center"><a href="https://www.deepseek.com/en" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2025/02/deepseek_logo_icon-logo_brandlogos.net_s5bgc-512x389.png" width="40"/><br>DeepSeek</a></td>
-    <td align="center"><a href="https://www.llama.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" width="40"/><br>Llama</a></td>    
+    <td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/><br>React</a></td>
+    <td align="center"><a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>Next.js</a></td>
+    <td align="center"><a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind CSS</a></td>
+    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br>TypeScript</a></td>
   </tr>
 </table>
 
-<h3>Backend / Frontend</h3>
+
+<h3>Backend Development</h3>
 <table>
   <tr>
+    <td align="center"><a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js</a></td>
     <td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>FastAPI</a></td>
     <td align="center"><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="40"/><br>Flask</a></td>
     <td align="center"><a href="https://www.postman.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40"/><br>Postman</a></td>
-    <td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/><br>React</a></td>
-    <td align="center"><a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>Next.js</a></td>
-    <td align="center"><a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js</a></td>
-    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br>TypeScript</a></td>
-    <td align="center"><a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind CSS</a></td>
+    
   </tr>
 </table>
 
@@ -138,6 +136,8 @@ Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `so
 <table>
   <tr>
     <td align="center"><a href="https://docs.pytest.org/en/stable/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/pytest.svg" width="40"/><br>pytest</a></td>
+    <td align="center"><a href="https://mlflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40"/><br>MLflow</a></td>
+    <td align="center"><a href="https://dvc.org/" target="_blank"><img src="https://www.svgrepo.com/show/373568/dvc.svg" width="40"/><br>DVC</a></td>
   </tr>
 </table>
 
