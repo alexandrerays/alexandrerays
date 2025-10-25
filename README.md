@@ -23,13 +23,12 @@ Skills
 ---
 
 **Programming Languages:** Python | R | Ruby | C | C++ | Bash | PHP | JavaScript  
-**Data Science & Machine Learning:** scikit-learn | TensorFlow | PyTorch | Keras | Hugging Face | OpenCV | SpeechBrain | PySpark | Pandas | GeoPandas  
+**Machine Learning:** scikit-learn | TensorFlow | PyTorch | Keras | Hugging Face | OpenCV | SpeechBrain | PySpark | YOLO
 **Large Language Models:** OpenAI | DeepSeek | Llama  
 **Data Visualization:** Tableau | Power BI | Plotly | Matplotlib | Seaborn | Streamlit | Gradio  
 **Cloud, DevOps & MLOps:** AWS | Azure | Heroku | Databricks | Docker | Jenkins | GitHub | GitHub Actions | Airflow | Git  
 **Frontend Development:** React | Next.js | Tailwind CSS | TypeScript | HTML  
 **Backend Development:** Node.js | FastAPI | Flask | Postman  
 **Databases:** PostgreSQL | MySQL | MongoDB  
-**Operating Systems / Environments:** Linux | Ubuntu | Anaconda | JupyterLab  
 **Testing & Experimentation:** pytest | MLflow | DVC  
 
