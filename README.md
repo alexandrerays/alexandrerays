@@ -17,7 +17,7 @@ Contact
 About Me
 ---
 
-Hello! I’m the Co-Founder & CTO of OncoAI.
+Hello! I’m the Co-Founder & CTO of [OncoAI](http://oncoai.com.br).
 
 I build AI products that empower businesses through artificial intelligence and entrepreneurship.
 
