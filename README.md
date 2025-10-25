@@ -17,7 +17,11 @@ Contact
 About Me
 ---
 
-Data Scientist with 10+ years of experience in `AI`, `machine learning`, and `software engineering`. I've worked across industries like finance, healthcare, education, and fintech, leading global teams and delivering impactful solutions. With a strong academic foundation from USP (BSc in Computational Physics, MSc in Engineering), I specialize in `Python`, `SQL`, `statistics`, and `scalable system design`. I bring a strategic, data-driven approach to solving complex problems and have over 3 years of experience working with U.S.-based companies.
+Hello! I’m the Co-Founder & CTO of OncoAI.
+
+I build AI products that empower businesses through artificial intelligence and entrepreneurship.
+
+I hold a bachelor’s degree in computational physics and a master’s degree in computer engineering, both from University of São Paulo.
 
 Skills
 ---
