@@ -4,24 +4,53 @@ Alexandre Ray</a></h1>
 About Me
 ---
 
-Hello! I’m the Co-Founder & CTO of [OncoAI](http://oncoai.com.br).
+Hello! I’m an AI Engineer and the Co-Founder & CTO of [OncoAI](http://oncoai.com.br).
 
 I build AI products that empower businesses through artificial intelligence and entrepreneurship.
 
-I hold a bachelor’s degree in computational physics and a master’s degree in computer engineering, both from University of São Paulo.
+I hold a bachelor’s degree in computational physics and a master’s degree in computer engineering / computer vision, both from University of São Paulo.
 
-Skills
+Technical Skills
 ---
 
-**Programming Languages:** Python | R | Ruby | C | C++ | Bash | PHP | JavaScript  
-**Machine Learning:** scikit-learn | TensorFlow | PyTorch | Keras | Hugging Face | OpenCV | SpeechBrain | PySpark | YOLO
-**Large Language Models:** OpenAI | DeepSeek | Llama  
-**Data Visualization:** Tableau | Power BI | Plotly | Matplotlib | Seaborn | Streamlit | Gradio  
-**Cloud, DevOps & MLOps:** AWS | Azure | Heroku | Databricks | Docker | Jenkins | GitHub | GitHub Actions | Airflow | Git  
-**Frontend Development:** React | Next.js | Tailwind CSS | TypeScript | HTML  
-**Backend Development:** Node.js | FastAPI | Flask | Postman  
-**Databases:** PostgreSQL | MySQL | MongoDB  
-**Testing & Experimentation:** pytest | MLflow | DVC  
+**Programming Languages:**  
+Python | R | C | C++ | Bash | Ruby | PHP | TypeScript  
+
+**Data Science & Machine Learning:**  
+scikit-learn | PyTorch | TensorFlow | Keras | Hugging Face | PySpark | Pandas | Statistical Analysis  
+
+**Computer Vision:**  
+OpenCV | YOLO | Object Detection | Deep Learning  
+
+**Generative AI & LLM Systems:**  
+GPT | LLaMA | DeepSeek | LangChain | LangGraph | Agentic RAG | Whisper | SpeechBrain  
+
+**Search & Retrieval Infrastructure:**  
+OpenSearch (BM25, Hybrid Search) | FAISS | ChromaDB | Vector Indexing | Re-ranking  
+
+**Data Visualization:**  
+Tableau | Power BI | Streamlit | Plotly | Matplotlib | Seaborn | Gradio  
+
+**Cloud & Data Platforms:**  
+AWS | Azure | Databricks | Heroku  
+
+**DevOps & MLOps:**  
+Docker | CI/CD | MLflow | Airflow | Terraform | Git (GitHub | GitLab | Bitbucket)  
+
+**Web Frameworks / APIs:**  
+FastAPI | Flask | Postman  
+
+**Databases:**  
+PostgreSQL | MySQL | MongoDB | SQL Server  
+
+**Environments & Tooling:**  
+Linux | Ubuntu | Anaconda | JupyterLab  
+
+**Testing:**  
+pytest  
+
+**Methods:**  
+Scrum | Kanban  
 
 Contact
 ---
