@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="http://www.alexandreray.com/" target="blank">
 Alexandre Ray</a></h1>
 
-About Me
----
+## ABOUT ME
 
 Hello! I’m an AI Engineer and the Co-Founder & CTO of [OncoAI](http://www.oncoai.com.br).
 
@@ -10,8 +9,9 @@ I build AI products that empower businesses through artificial intelligence and 
 
 I hold a bachelor’s degree in computational physics and a master’s degree in computer engineering / computer vision, both from University of São Paulo.
 
-Contact
----
+<br>
+
+## CONTACT
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrerays&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrerays" /> </p> -->
 
@@ -19,13 +19,9 @@ Contact
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.alexandreray.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexandrerays)
 
-
-Technical Skills
----
 <br>
 
-
-<strong>Core Fundamentals</strong><br>
+## CORE FUNDAMENTALS & BACKGROUND
 
 <!-- Programming / Engineering -->
 <span>
@@ -62,7 +58,9 @@ Technical Skills
 </span>
 
 
-<br><br>
+<br>
+
+## TECH STACK & TOOLS
 
 <strong>Full Stack Development</strong><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -115,7 +113,7 @@ Technical Skills
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Gradio-FF7F50?style=for-the-badge" />
 
-<br><br>
+<br>
 
 <strong>Cloud & MLOps</strong><br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
