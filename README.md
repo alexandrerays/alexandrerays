@@ -3,7 +3,7 @@ Alexandre Ray</a></h1>
 
 ## ABOUT ME
 
-Hello! I’m an AI Engineer and the Co-Founder & CTO of [OncoAI](http://www.oncoai.com.br).
+Hello! I’m an AI Engineer and the Co-Founder of [OncoAI](http://www.oncoai.com.br).
 
 I build AI products that empower businesses through artificial intelligence and entrepreneurship.
 
