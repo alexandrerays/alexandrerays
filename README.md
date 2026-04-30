@@ -12,9 +12,13 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 
 ## PROJECTS
 
-[Legal Engine](https://github.com/alexandrerays/legal-engine) (Open Source Software)
+[Legal Engine](https://github.com/alexandrerays/legal-engine)
 
 > RAG legal research tool that answers questions about U.S. Supreme Court opinions with cited sources, powered by hierarchical retrieval and a simple Streamlit interface.
+
+NotebookMed (WIP)
+
+> Medical study platform where students practice clinical consultations with AI-simulated patients, receiving performance feedback to sharpen their diagnostic reasoning. Built for Brazilian medical students preparing for exams, residency, and real-world clinical encounters.
 
 ## TECH STACK
 
