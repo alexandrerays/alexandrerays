@@ -19,13 +19,15 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 
 ## TECH STACK
 
-**Languages**: Python, R, Bash, TypeScript.<br>
-**Backend**: Django, FastAPI, Flask.<br>
-**Machine Learning**: Scikit-learn, PyTorch, TensorFlow, PySpark.<br>
-**GenAI / LLM**: LangChain, LangGraph, Hugging Face, Ollama.<br>
-**Databases & Retrieval**: PostgreSQL, MySQL, MongoDB, OpenSearch, FAISS, ChromaDB.<br>
-**Cloud & DevOps**: AWS, Azure, Docker, MLflow, Airflow, Terraform<br>
-**Other**: Git, pytest.<br>
+| Category                | Technologies                                                                 |
+|------------------------|------------------------------------------------------------------------------|
+| Languages              | Python, R, Bash, TypeScript                                                  |
+| Backend                | Django, FastAPI, Flask                                                       |
+| Machine Learning       | Scikit-learn, PyTorch, TensorFlow, PySpark                                   |
+| GenAI / LLM            | LangChain, LangGraph, Hugging Face, Ollama                                   |
+| Databases & Retrieval  | PostgreSQL, MySQL, MongoDB, OpenSearch, FAISS, ChromaDB                      |
+| Cloud & DevOps         | AWS, Azure, Docker, MLflow, Airflow, Terraform                               |
+| Other                  | Git, pytest                                                                  |
 
 
 ## CONTRIBUTIONS
