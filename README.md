@@ -3,7 +3,7 @@ Alexandre Ray</a></h1>
 
 ## ABOUT ME
 
-Hello! I’m an AI Engineer and the Co-Founder of [OncoAI](http://www.oncoai.com.br).
+Hello! I’m an AI Engineer and the Co-Founder of [OncoAI](http://www.oncoai.com.br) and [IpsilonAI](https://www.ipsilonai.com/).
 
 I build AI products that empower businesses through artificial intelligence and entrepreneurship.
 
@@ -12,10 +12,9 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 
 ## PROJECTS
 
-[Legal Engine](https://github.com/alexandrerays/legal-engine)
+[Legal Engine](https://github.com/alexandrerays/legal-engine) (Open Source Software)
 
 > RAG legal research tool that answers questions about U.S. Supreme Court opinions with cited sources, powered by hierarchical retrieval and a simple Streamlit interface.
-
 
 ## TECH STACK
 
