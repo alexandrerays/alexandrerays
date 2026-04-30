@@ -9,7 +9,12 @@ I build AI products that empower businesses through artificial intelligence and 
 
 I hold a bachelor’s degree in computational physics and a master’s degree in computer engineering / computer vision, both from University of São Paulo.
 
-<br>
+
+## PROJECTS
+
+[Legal Engine](https://github.com/alexandrerays/legal-engine)
+
+> RAG legal research tool that answers questions about U.S. Supreme Court opinions with cited sources, powered by hierarchical retrieval and a simple Streamlit interface.
 
 
 ## TECH STACK
@@ -22,11 +27,11 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 **Cloud & DevOps**: AWS, Azure, Docker, MLflow, Airflow, Terraform<br>
 **Other**: Git, pytest.<br>
 
----
+
+## CONTRIBUTIONS
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=alexandrerays&theme=tokyonight)
 
----
 
 ## CONTACT
 
