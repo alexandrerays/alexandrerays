@@ -16,7 +16,7 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 
 > RAG legal research tool that answers questions about U.S. Supreme Court opinions with cited sources, powered by hierarchical retrieval and a simple Streamlit interface.
 
-[NotebookMed](www.notebookmed.com.br) (wip)
+[NotebookMed](https://www.notebookmed.com.br/) (wip)
 
 > Medical study platform where students practice clinical consultations with AI-simulated patients, receiving performance feedback to sharpen their diagnostic reasoning. Built for Brazilian medical students preparing for exams, residency, and real-world clinical encounters.
 
