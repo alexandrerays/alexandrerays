@@ -35,8 +35,7 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 
 ## CONTRIBUTIONS
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alexandrerays&theme=tokyonight)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexandrerays&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
 
 ## CONTACT
 
