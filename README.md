@@ -30,7 +30,7 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 | GenAI / LLM            | LangChain, LangGraph, Hugging Face, Ollama                                   |
 | Databases & Retrieval  | PostgreSQL, MySQL, MongoDB, OpenSearch, FAISS, ChromaDB                      |
 | Cloud & DevOps         | AWS, Azure, Docker, MLflow, Airflow, Terraform                               |
-| Other                  | Git, pytest                                                                  |
+| Other                  | Git, pytest, DeepEval, RAGAS                                                 |
 
 
 ## CONTRIBUTIONS
