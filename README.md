@@ -16,6 +16,10 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 
 > RAG legal research tool that answers questions about U.S. Supreme Court opinions with cited sources, powered by hierarchical retrieval and a simple Streamlit interface.
 
+[Medical RAG](https://github.com/alexandrerays/medical-rag/tree/main)
+
+> Cited RAG agent over FDA and WHO healthcare AI documentation. Answers regulatory and responsible AI questions with source citations via FastAPI, MCP server, and Gradio chat interface.
+
 [NotebookMed](https://www.notebookmed.com.br/) (wip)
 
 > Medical study platform where students practice clinical consultations with AI-simulated patients, receiving performance feedback to sharpen their diagnostic reasoning. Built for Brazilian medical students preparing for exams, residency, and real-world clinical encounters.
