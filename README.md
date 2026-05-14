@@ -9,22 +9,6 @@ I build AI products that empower businesses through artificial intelligence and 
 
 I hold a bachelor’s degree in computational physics and a master’s degree in computer engineering / computer vision, both from University of São Paulo.
 
-
-## GITHUB PROJECTS
-
-[Legal Engine](https://github.com/alexandrerays/legal-engine)
-
-> RAG legal research tool that answers questions about U.S. Supreme Court opinions with cited sources, powered by hierarchical retrieval and a simple Streamlit interface.
-
-[Medical RAG](https://github.com/alexandrerays/medical-rag/tree/main)
-
-> Cited RAG agent over FDA and WHO healthcare AI documentation. Answers regulatory and responsible AI questions with source citations via FastAPI, MCP server, and Gradio chat interface.
-
-[SpeechFlowAI](https://github.com/alexandrerays/speech-flow-ai)
-
-> A modern web application that transcribes audio from YouTube videos and local files into text using AI. Built with TypeScript (Next.js) for the frontend and Python (FastAPI) for the backend.
-
-
 ## TECH STACK
 
 | Category                | Technologies                                                                 |
