@@ -3,14 +3,14 @@ Alexandre Ray</a></h1>
 
 ## ABOUT ME
 
-Hello! I’m an AI Engineer and the Co-Founder of [OncoAI](http://www.oncoai.com.br).
+Hello! I’m an AI Engineer and builder of [OncoAI](http://www.oncoai.com.br), [IpsilonAI](https://www.ipsilonai.com.br/) and [NotebookMed](https://www.notebookmed.com.br/).
 
 I build AI products that empower businesses through artificial intelligence and entrepreneurship.
 
 I hold a bachelor’s degree in computational physics and a master’s degree in computer engineering / computer vision, both from University of São Paulo.
 
 
-## PROJECTS
+## GITHUB PROJECTS
 
 [Legal Engine](https://github.com/alexandrerays/legal-engine)
 
@@ -20,9 +20,10 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 
 > Cited RAG agent over FDA and WHO healthcare AI documentation. Answers regulatory and responsible AI questions with source citations via FastAPI, MCP server, and Gradio chat interface.
 
-[NotebookMed](https://www.notebookmed.com.br/) (wip)
+[SpeechFlowAI](https://github.com/alexandrerays/speech-flow-ai)
 
-> Medical study platform where students practice clinical consultations with AI-simulated patients, receiving performance feedback to sharpen their diagnostic reasoning. Built for Brazilian medical students preparing for exams, residency, and real-world clinical encounters.
+> A modern web application that transcribes audio from YouTube videos and local files into text using AI. Built with TypeScript (Next.js) for the frontend and Python (FastAPI) for the backend.
+
 
 ## TECH STACK
 
