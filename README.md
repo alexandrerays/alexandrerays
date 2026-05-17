@@ -3,7 +3,7 @@ Alexandre Ray</a></h1>
 
 ## ABOUT ME
 
-Hello! I’m an AI Engineer and builder of [OncoAI](http://www.oncoai.com.br) and [NotebookMed](https://www.notebookmed.com.br/).
+Hello! I’m an AI Product Engineer.
 
 I build AI products that empower businesses through artificial intelligence and entrepreneurship.
 
