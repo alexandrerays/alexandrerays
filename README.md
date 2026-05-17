@@ -10,7 +10,7 @@ I build AI products that empower businesses through artificial intelligence and 
 I hold a bachelor’s degree in computational physics and a master’s degree in computer engineering / computer vision, both from University of São Paulo.
 
 
-## Projects
+## PROJECTS
 
 In the pinned repositories below, you will find selected projects from my AI engineering portfolio, including:
 
