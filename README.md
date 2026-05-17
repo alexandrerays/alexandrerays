@@ -14,9 +14,9 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 
 In the pinned repositories below, you will find selected projects from my AI engineering portfolio, including:
 
-- Two RAG systems focused on legal and medical use cases
-- One agentic AI system for stock market analysis
-- One web application for speech processing and transcription
+- Two RAG systems focused on legal (![legal-engine](https://github.com/alexandrerays/legal-engine)) and medical (![medical-rag](https://github.com/alexandrerays/medical-rag)) use cases.
+- One agentic AI system for stock market analysis.
+- One web application for speech processing and transcription called ![speech-flow-ai](https://github.com/alexandrerays/speech-flow-ai).
 
 In addition to these open-source projects, I also lead the development of two SaaS products, OncoAI Platform and NotebookMed, as well as OncoCare, a mobile app focused on the oncology patient journey.
 
