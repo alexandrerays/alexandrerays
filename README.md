@@ -9,6 +9,18 @@ I build AI products that empower businesses through artificial intelligence and 
 
 I hold a bachelor’s degree in computational physics and a master’s degree in computer engineering / computer vision, both from University of São Paulo.
 
+
+## Projects
+
+In the pinned repositories below, you will find selected projects from my AI engineering portfolio, including:
+
+- Two RAG systems focused on legal and medical use cases
+- One agentic AI system for stock market analysis
+- One web application for speech processing and transcription
+
+In addition to these open-source projects, I also lead the development of two SaaS products, OncoAI Platform and NotebookMed, as well as OncoCare, a mobile app focused on the oncology patient journey.
+
+
 ## TECH STACK
 
 | Category                | Technologies                                                                 |
