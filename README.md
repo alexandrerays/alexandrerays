@@ -14,9 +14,12 @@ I hold a bachelor’s degree in computational physics and a master’s degree in
 
 In the pinned repositories below, you will find selected projects from my AI engineering portfolio, including:
 
-- Two domain-specific RAG systems: [legal-engine](https://github.com/alexandrerays/legal-engine), focused on legal document retrieval and question answering, and [medical-rag](https://github.com/alexandrerays/medical-rag), focused on medical knowledge retrieval and grounded clinical-style responses.
-- One agentic AI system: [stock-agent](https://github.com/alexandrerays/stock-agent), an AI agent designed to analyze stock market data, reason over financial information, and support investment research workflows.
-- One speech AI web application: [speech-flow-ai](https://github.com/alexandrerays/speech-flow-ai), a web app for audio processing and speech-to-text transcription, demonstrating applied AI for voice and language workflows.
+| Category | Project | Description |
+|---|---|---|
+| Domain-specific RAG systems | [legal-engine](https://github.com/alexandrerays/legal-engine) | Focused on legal document retrieval and question answering. |
+| Domain-specific RAG systems | [medical-rag](https://github.com/alexandrerays/medical-rag) | Focused on medical knowledge retrieval and grounded clinical-style responses. |
+| Agentic AI system | [stock-agent](https://github.com/alexandrerays/stock-agent) | AI agent designed to analyze stock market data, reason over financial information, and support investment research workflows. |
+| Web application | [speech-flow-ai](https://github.com/alexandrerays/speech-flow-ai) | Web app for audio processing and speech-to-text transcription, demonstrating applied AI for voice and language workflows. |
 
 In addition to these open-source projects, I also lead the development of two SaaS products, [OncoAI Platform](http://www.oncoai.com.br/) and [NotebookMed](https://www.notebookmed.com.br/), as well as [OncoCare](https://oncocare.oncoai.com.br/), a mobile app focused on the oncology patient journey.
 
