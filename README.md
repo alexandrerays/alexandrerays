@@ -3,7 +3,7 @@ Alexandre Ray</a></h1>
 
 ## ABOUT ME
 
-Hello! I’m an AI Product Engineer.
+Hello! I’m an AI Engineer.
 
 I build AI products that empower businesses through artificial intelligence and entrepreneurship.
 
