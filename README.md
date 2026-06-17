@@ -31,7 +31,7 @@ In addition to these open-source projects, I also lead the development of two Sa
 | Languages              | Python, R, Bash, TypeScript                                                  |
 | Backend                | Django, FastAPI, Flask, Node.js                                              |
 | Machine Learning       | Scikit-learn, PyTorch, TensorFlow, PySpark                                   |
-| GenAI / LLM            | LangChain, LangGraph, LlamaIndex, Hugging Face, Ollama                                   |
+| GenAI / LLM            | LangChain, LangGraph, LlamaIndex, Hugging Face, Ollama, MCP                                   |
 | Databases & Retrieval  | PostgreSQL, MySQL, MongoDB, OpenSearch, FAISS, ChromaDB                      |
 | Cloud & DevOps         | AWS, Azure, Docker, MLflow, Airflow, Terraform                               |
 | Other                  | Git, pytest, DeepEval, RAGAS                                                 |
