@@ -28,7 +28,7 @@ In addition to these open-source projects, I also lead the development of two Sa
 
 | Category                | Technologies                                                                 |
 |------------------------|------------------------------------------------------------------------------|
-| Languages              | Python, R, Bash, TypeScript                                                  |
+| Languages              | Python, R, Bash, TypeScript, Ruby                                                  |
 | Backend                | Django, FastAPI, Flask, Node.js                                              |
 | Machine Learning       | Scikit-learn, PyTorch, TensorFlow, PySpark                                   |
 | GenAI / LLM            | LangChain, LangGraph, LlamaIndex, Hugging Face, Ollama, MCP                                   |
