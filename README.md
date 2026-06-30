@@ -20,7 +20,6 @@ In the pinned repositories below, you will find selected projects from my AI eng
 | [Medical RAG system](https://github.com/alexandrerays/medical-rag) | Focused on medical knowledge retrieval and grounded clinical-style responses. |
 | [Stock Agent](https://github.com/alexandrerays/stock-agent) | AI agent designed to analyze stock market data, reason over financial information, and support investment research workflows. |
 | [Web application](https://github.com/alexandrerays/speech-flow-ai) | Web app for audio processing and speech-to-text transcription, demonstrating applied AI for voice and language workflows. |
-| [AI RAG system](https://github.com/alexandrerays/speech-flow-ai) | A system that answers questions about AI predictions by searching through a curated knowledge base and citing its sources, rather than relying on the AI's own memory. |
 
 ## TECH STACK
 
