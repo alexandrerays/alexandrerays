@@ -25,7 +25,7 @@ In the pinned repositories below, you will find selected projects from my AI eng
 
 | Category                | Technologies                                                                 |
 |------------------------|------------------------------------------------------------------------------|
-| Languages              | Python, R, Bash, TypeScript, Ruby                                                  |
+| Languages              | Python, R, Bash, TypeScript                                                  |
 | Backend                | Django, FastAPI, Flask, Node.js                                              |
 | Machine Learning       | Scikit-learn, PyTorch, TensorFlow, PySpark                                   |
 | GenAI / LLM            | LangChain, LangGraph, LlamaIndex, Hugging Face, Ollama, MCP                                   |
