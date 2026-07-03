@@ -28,7 +28,7 @@ In the pinned repositories below, you will find selected projects from my AI eng
 | Languages              | Python, Bash, TypeScript                                                  |
 | Backend                | Django, FastAPI, Flask, Node.js                                              |
 | Machine Learning       | Scikit-learn, PyTorch, TensorFlow, PySpark                                   |
-| GenAI / LLM            | LangChain, LangGraph, LlamaIndex, Hugging Face, Ollama, MCP                                   |
+| GenAI / LLM            | LangChain, LangGraph, LlamaIndex, HuggingFace, Ollama, MCP                                   |
 | Databases & Retrieval  | PostgreSQL, MySQL, MongoDB, OpenSearch, FAISS, ChromaDB                      |
 | Cloud & DevOps         | AWS, Azure, Docker, MLflow, Airflow, Terraform                               |
 | Other                  | Git, pytest, DeepEval, RAGAS                                                 |
