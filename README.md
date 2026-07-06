@@ -30,7 +30,7 @@ In the pinned repositories below, you will find selected projects from my AI eng
 | Machine Learning       | Scikit-learn, PyTorch, TensorFlow, PySpark                                   |
 | GenAI / LLM            | LangChain, LangGraph, LlamaIndex, HuggingFace, Ollama, MCP                                   |
 | Databases & Retrieval  | PostgreSQL, MySQL, MongoDB, OpenSearch, FAISS, ChromaDB                      |
-| Cloud & DevOps         | AWS, Azure, Docker, MLflow, Airflow, Terraform                               |
+| Cloud & DevOps         | AWS, Azure, Docker, MLflow, DVC, Airflow, Terraform                               |
 | Other                  | Git, pytest, DeepEval, RAGAS                                                 |
 
 
