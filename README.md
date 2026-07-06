@@ -3,7 +3,7 @@ Alexandre Ray</a></h1>
 
 ## ABOUT ME
 
-Hello! I’m a Data Scientist and AI Engineer.
+Hello! I’m a Data Scientist and AI/ML Engineer.
 
 I build AI products that empower businesses through artificial intelligence and entrepreneurship.
 
